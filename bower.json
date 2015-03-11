@@ -1,0 +1,18 @@
+{
+  "name": "retinaFix",
+  "version": "0.1.0",
+  "authors": [
+    "Anthon Astrom <anthon@astromzimmer.com>"
+  ],
+  "description": "Automatic retina fix.",
+  "main": "retinaFix.coffee",
+  "license": "aLICENSE",
+  "homepage": "astromzimmer.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
